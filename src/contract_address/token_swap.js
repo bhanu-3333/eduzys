@@ -1,0 +1,1 @@
+export const token_swap_address = "0x824CB569078c36f5eF5187De683F5D01Fa76Afa1"

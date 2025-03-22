@@ -1,0 +1,1 @@
+export const event_contract_address = "0xd9E5d3E1C411F709f90Aa682f157CE105366d09f"
